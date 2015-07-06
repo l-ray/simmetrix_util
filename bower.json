@@ -1,0 +1,11 @@
+{
+  "name": "simmetrix-util",
+  "version": "0.0.2",
+  "main": "./lib/simmetrix.util.js",
+  "dependencies": {
+    "simmetrix-levenshtein": "https://github.com/l-ray/simmetrix_levenshtein.git",
+    "simmetrix-qgram": "https://github.com/l-ray/simmetrix_qgram.git",
+    "simmetrix-smithwaterman": "https://github.com/l-ray/simmetrix_smithwaterman.git",
+    "simmetrix-longestsubstring": "https://github.com/l-ray/simmetrix_longestsubstring.git"
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Lennart Reuther",
+    "email": "lennart.reuther+xirtemmis@gmail.com"
+  },
+  "name": "simmetrix-util",
+  "description": "Utilities for data harmonisation",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/l-ray/simmetrix_util.git"
+  },
+  "main": "simmetrix.util.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "~1.9.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/l-ray/simmetrix_util/issues"
+  },
+  "_id": "simmetrix_util@0.0.1"
+}
